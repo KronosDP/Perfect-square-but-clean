@@ -1,5 +1,5 @@
-for x in range(10000):
-    y =  x ** 2
+for i in range(10000):
+    j =  i ** 2
 
-    if y <= 10000000:
-        print(y, x)
+    if j <= 10000000:
+        print(j, i)
